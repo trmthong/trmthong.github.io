@@ -925,6 +925,11 @@ body,button {
 	background:#66cbff
 }
 .page-46 h3 {
+	position:absolute;
+	right:10%;
+	top:5%;
+	z-index:2;
+	font-size:2em
 	margin-left:1em;
 	margin-right:1em
 	font-size:2em
