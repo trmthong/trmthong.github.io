@@ -924,21 +924,6 @@ body,button {
 .page-46 {
 	background:#66cbff
 }
-.page-46 h3 {
-	position:absolute;
-	top:1em;
-	left:50%;
-	margin-left:-40%;
-	padding:0;
-	margin-top:0;
-	width:10em;
-	text-align:center
-}
-.page-46 h3 span {
-	display:inline-block;
-	width:2em;
-	vertical-align:top
-}
 .page-47 {
 	background-color:#fdcbca
 }
