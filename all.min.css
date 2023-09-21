@@ -943,6 +943,9 @@ body,button {
 .page-49 {
 	background-color:#62BAE9;
 }
+.page-49 img {
+	margin:0
+}
 .page-50 {
 	background-color:#aae1f6;
 	padding:0
